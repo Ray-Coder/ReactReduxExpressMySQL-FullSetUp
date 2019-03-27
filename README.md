@@ -5,5 +5,7 @@ Step 1: Clone the project
 Step 2: npm install
 Step 3 : npm start (run this command on command line)
 Thats it.
+check - http://localhost:8010/#/
+
 P.S - unit testing will be added soon.
 Thanks!
