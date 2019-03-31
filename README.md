@@ -9,3 +9,5 @@ check - http://localhost:8010/#/
 
 P.S - unit testing will be added soon.
 Thanks!
+P.S : BLOG LINK
+https://medium.com/@payelroyburman14/how-to-build-a-react-redux-project-with-database-connectivity-cd5c0d03f2ee 
